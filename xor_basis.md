@@ -3,6 +3,6 @@
 
 الحل الbrute force هو انك تكون كل subsets الممكنة وتعملهم xor. ولكن الحل ده time complexity 2^n فاكيد هيجيب TLE.
 
-وهنا بيظهر analogy with linear algebra بالتحديد gauss elimination .  (لو مكنتش بتحب الكورس دا زيي, متقلقش مش هنطزل هنا (: ).
+وهنا بيظهر analogy with linear algebra بالتحديد gauss elimination .  (لو مكنتش بتحب الكورس دا زيي, متقلقش مش هنطول هنا (: ).
 
 
