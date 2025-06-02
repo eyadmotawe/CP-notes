@@ -70,3 +70,29 @@ these numbers can be put in a matrix as follow:
 [ 0 1 ]
 
 """
+
+ودلوقتي نشوف تاني pivot هنلاقيه في المكان (2,2) ونشوف تحته هنلاقي ان في واحد في الصف التالت.. فهنعمل xor للصف التاني والتالت وهيبقى دا الناتج:
+
+
+"""
+
+[ 1 0 ]
+
+[ 0 1 ]
+
+[ 0 0 ]
+
+"""
+
+اخر صف بيساوي صفر !! 
+
+بكده قدرنا بسهولة نقول ان 3 ممكن نكونها عن طريق عملية xor  بين مجموعة ارقام تانية .
+
+ده بالظبط اللي هنعمله مع البروبليم الاصلية بتاعتنا 
+
+"""
+
+given an array of n integers we will for the XOR - space basis of the array , hence. we will be able to answer the queries.
+
+"""
+
