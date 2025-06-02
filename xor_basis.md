@@ -22,6 +22,7 @@ having 3 vecotrs A, B and C . can vecotr D be represented as linear combination 
 """
 
 combining vectors in one matrix as following:
+
 [ ... A ...]
 
 [ ... B ...]
