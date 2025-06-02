@@ -6,11 +6,17 @@
 وهنا بيظهر analogy with linear algebra بالتحديد gauss elimination .  (لو مكنتش بتحب الكورس دا زيي, متقلقش مش هنطول هنا (: ).
 
 
+
+
 """
 having 3 vecotrs A, B and C . can vecotr D be represented as linear combination of the three vectors?
 """
 
+
+
 السؤال ده يقدر gauss elimination  يجاوبنا عليه كالتالي:
+
+
 """
 combining vectors in one matrix as following:
 [ ... A ...]
