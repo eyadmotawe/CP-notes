@@ -92,7 +92,7 @@ these numbers can be put in a matrix as follow:
 
 """
 
-given an array of n integers we will for the XOR - space basis of the array , hence. we will be able to answer the queries.
+given an array of n integers we will form the XOR - space basis of the array , hence. we will be able to answer the queries.
 
 """
 
