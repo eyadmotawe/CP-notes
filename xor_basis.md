@@ -23,9 +23,13 @@ having 3 vecotrs A, B and C . can vecotr D be represented as linear combination 
 
 combining vectors in one matrix as following:
 [ ... A ...]
+
 [ ... B ...]
+
 [ ... C ...]
+
 [ ... D ...]
+
 Then applying gauss elimination process to acchive most reduced form of the system.
 
 """
