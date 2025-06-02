@@ -9,7 +9,9 @@
 
 
 """
+
 having 3 vecotrs A, B and C . can vecotr D be represented as linear combination of the three vectors?
+
 """
 
 
@@ -18,12 +20,14 @@ having 3 vecotrs A, B and C . can vecotr D be represented as linear combination 
 
 
 """
+
 combining vectors in one matrix as following:
 [ ... A ...]
 [ ... B ...]
 [ ... C ...]
 [ ... D ...]
 Then applying gauss elimination process to acchive most reduced form of the system.
+
 """
 
 بعد ما نعمل العملية السابقة لو لقينا ان اخر صف يساوي صفر اذا اجابة السؤال yes لكن لو اخر صف مش بيساوي صفر اذا اجابة السؤال لا ..... دا بالظبط اللي هنعمله مع البروبليم الاصلية !
