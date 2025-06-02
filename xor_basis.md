@@ -98,12 +98,11 @@ given an array of n integers we will for the XOR - space basis of the array , he
 
 وده الكود اللي نقدر نعمل بيه كده
 
-const int LOG = 60;
+    const int LOG = 60;
 
-long long basis[LOG]; // basis[i] keeps the number with the i-th bit set
+    long long basis[LOG]; // basis[i] keeps the number with the i-th bit set
 
-void insert(long long x) {
-
+    void insert(long long x) {
     for (int i = LOG - 1; i >= 0; --i) {
     
         if (!(x & (1LL << i))) continue;
@@ -118,5 +117,4 @@ void insert(long long x) {
         x ^= basis[i];
         
     }
-    
-}
+    }
