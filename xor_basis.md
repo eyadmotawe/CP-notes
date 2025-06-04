@@ -118,3 +118,11 @@ given an array of n integers we will form the XOR - space basis of the array , h
         
     }
     }
+
+
+
+ref:
+
+https://www.youtube.com/watch?v=qIXg9vJ6hZM&t=1566s
+
+https://codeforces.com/blog/entry/68953
