@@ -31,7 +31,7 @@ combining vectors in one matrix as following:
 
 [ ... D ...]
 
-Then applying gauss elimination process to acchive most reduced form of the system.
+Then applying gauss elimination process to achieve most reduced form of the system.
 
 """
 
